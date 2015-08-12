@@ -1,0 +1,17 @@
+commit 8b268c7a9ec2f92fb52d76f2256d1de137eba930
+Author: jose <deivis354@hotmail.com>
+Date:   Sat Jul 25 21:47:54 2015 -0500
+
+    se agrego ie de agina
+
+commit d6df3f6239616d457618b5612abb095a38f1746d
+Author: jose <deivis354@hotmail.com>
+Date:   Sat Jul 25 21:45:19 2015 -0500
+
+    se creo un hola
+
+commit c49e75fc18026fa9f642d448bf8d51fbfc3a9bcd
+Author: jose <deivis354@hotmail.com>
+Date:   Sat Jul 25 21:38:48 2015 -0500
+
+    archivos iniciales
